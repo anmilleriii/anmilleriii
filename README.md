@@ -1,1 +1,1 @@
-## Engineer passionate about holistic (social, environmental, economic) sustainability.
+Engineer passionate about holistic (social, environmental, economic) sustainability.
