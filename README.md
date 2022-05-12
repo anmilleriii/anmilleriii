@@ -1,4 +1,6 @@
-  <p>Principal interests comprise full-stack engineering, sustainability, and the philosophy of technology.</p>
+<img height="125px" src="https://user-images.githubusercontent.com/31523262/168185583-f37414e2-a7a7-447a-bdc1-138d70c9b2e7.png" />
+
+<p>Principal interests comprise full-stack engineering, sustainability, and the philosophy of technology.</p>
   <p>Growing the infrastructure for trustworthy, effective, and sustainable voluntary carbon markets @ <a href="https://pachama.com/">Pachama</a>.</p>
     <div>
         <a href="https://anmiller.com/"><img src="https://img.shields.io/badge/-anmiller.com%20-2d5555?style=flat"></a>
